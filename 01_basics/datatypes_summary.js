@@ -32,3 +32,18 @@ console.log(typeof myFunction)
 console.log(typeof myObj)
 console.log(typeof heros)
 console.log(typeof outsideTemp)
+
+let myYoutubename="Abhishekyadavdotcom"
+let anothername=myYoutubename
+anothername="chai or code"
+console.log(myYoutubename)
+console.log(anothername)
+let userOne = {
+    email:"user@google.com",
+    upi:"user@ybl"
+}
+let userTwo=userOne
+userTwo.email="hitesh@google.com"
+
+console.log(userOne.email);
+console.log(userOne.email);
